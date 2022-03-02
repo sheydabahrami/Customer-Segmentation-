@@ -1,8 +1,3 @@
-### Use cases of Machine Learning in Marketing
-    Customer Segmentation 
-    Price Optimization
-    Personalization
-    Customer Lifetime Value
 ##### Customer segmentation 
     Helps organizations know and understand their customers
     Creating customer personas and mapping customers to personas
@@ -31,7 +26,7 @@ two models always are used: 1) probabilistic (Pareto/Negative Binomial Distribut
 ) models 2) ML models (linear regression, SVR, deep learning regressors)
 
 
-#### In this repository we will see a case study in customer segmentation 
+
 
 
 
